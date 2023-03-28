@@ -1,0 +1,14 @@
+name = "Sodium Occlusion Culling Fix"
+filename = "ocrenderfix_sodium-1.0.0.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/jcn9RURP/versions/yKqfGLtM/ocrenderfix_sodium-1.0.0.jar"
+hash-format = "sha512"
+hash = "80ba640f149bda4740e639d43a903938024895767a8cae7f93d283d90abb3dc7afa607f0fb3ad026c5e8a12c472efefcb26caa0c9958f99744249a3000c3a829"
+
+[update]
+[update.modrinth]
+mod-id = "jcn9RURP"
+version = "yKqfGLtM"

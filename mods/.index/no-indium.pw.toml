@@ -1,0 +1,14 @@
+name = "No Indium?"
+filename = "noindium-1.1.0+1.19.3.jar"
+side = "both"
+
+[download]
+mode = "url"
+url = "https://cdn.modrinth.com/data/Hv40r83o/versions/wBuD9anW/noindium-1.1.0%2B1.19.3.jar"
+hash-format = "sha512"
+hash = "244d10cb67a3da99cc4cff808e7378c1dd918cf70c4d0a613b84df8b704808bee7600e37af8a3092eae262f82829a7ed8144719cabf09ca5bddc550f33fb1c53"
+
+[update]
+[update.modrinth]
+mod-id = "Hv40r83o"
+version = "wBuD9anW"
