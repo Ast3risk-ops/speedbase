@@ -1,8 +1,8 @@
-# O.F.F.
+# Speedbase
 
-Wiki: https://of0.gitbook.io/off-wiki
+Wiki: https://of0.gitbook.io/off-wiki  
 
-All the mods you need for Optifine on Fabric 1.19.3.
+A spedy base for your modpacks
 
 ## IMPORTANT: Barebones
 
