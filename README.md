@@ -1,6 +1,6 @@
 # Speedbase
 
-Wiki: https://of0.gitbook.io/off-wiki  
+Wiki: https://of0.gitbook.io/speedbase  
 
 A spedy base for your modpacks
 
