@@ -1,6 +1,6 @@
 # O.F.F.
 
-Wiki: https://of0.gitbook.io/of.fabric-wiki
+Wiki: https://of0.gitbook.io/off-wiki
 
 All the mods you need for Optifine on Fabric 1.19.3.
 
@@ -8,9 +8,9 @@ All the mods you need for Optifine on Fabric 1.19.3.
 
 If you do not have or want to use a supported launcher, you may use the __barebones__ edition.
 
-This is just a zip with the mods. Barebones editions can be found [here](https://github.com/Ast3risk-ops/of.fabric/releases)
+This is just a zip with the mods. Barebones editions can be found [here](https://github.com/Ast3risk-ops/off-modpack/releases)
 
-check the [wiki](https://of0.gitbook.io/of.fabric-wiki) for info on how to install them.
+check the [wiki](https://of0.gitbook.io/off-wiki) for info on how to install them.
 
 ## Why this modpack?
 
