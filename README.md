@@ -1,4 +1,4 @@
-# of.fabric
+# O.F.F.
 
 Wiki: https://of0.gitbook.io/of.fabric-wiki
 
