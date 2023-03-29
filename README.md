@@ -1,6 +1,6 @@
 # Speedbase
 
-Wiki: https://of0.gitbook.io/speedbase  
+Wiki: https://speedbase.gitbook.io/docs
 
 A spedy base for your modpacks
 
@@ -8,14 +8,9 @@ A spedy base for your modpacks
 
 If you do not have or want to use a supported launcher, you may use the __barebones__ edition.
 
-This is just a zip with the mods. Barebones editions can be found [here](https://github.com/Ast3risk-ops/off-modpack/releases)
+This is just a zip with the mods. Barebones editions can be found [here](https://github.com/Ast3risk-ops/speedbase/releases)
 
-check the [wiki](https://of0.gitbook.io/off-wiki) for info on how to install them.
-
-## Why this modpack?
-
-It's much lighter than other options, adding only core Optifine stuff.
-You may say this is a copy of [Additive](https://modrinth.com/modpack/additive), but it is not, it does have differences.
+check the [wiki](https://speedbase.gitbook.io/docs) for info on how to install them.
 
 ## Info
 
