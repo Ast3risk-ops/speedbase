@@ -35,6 +35,14 @@ I never liked using modpacks, I always preferred to make my own for personal use
 I also noticed that there was no proper mod that gave users a true Optifine experience besides Additive, which I sought to differentiate from.
 </details>
 
+<details>
+<summary>How do I use this?</summary>
+<br>
+
+[Wiki](https://speedbase.gitbook.io/docs)
+
+</details>
+
 
 </details>
 
