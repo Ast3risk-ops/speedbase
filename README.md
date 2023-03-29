@@ -12,6 +12,13 @@ This is just a zip with the mods. Barebones editions can be found [here](https:/
 
 check the [wiki](https://speedbase.gitbook.io/docs) for info on how to install them.
 
+## What is this modpack?
+
+This modpack can serve as a base for your own modpacks, for distribution or not. The idea here is to make something that anybody can make their own version of.
+
+Because it's MIT, you can upload those versions too!
+
+
 ## Info
 
 This is my first modpack, and I am the sole maintainer.
